@@ -1,0 +1,25 @@
+{
+  "cookies": [
+    {
+      "name": "XSRF-TOKEN",
+      "value": "eyJpdiI6Im5ZOHR3dk9JeU9XMFlDU1gzM3lIdlE9PSIsInZhbHVlIjoibm13VG9YWG5YMkM4Y0lxVXVHMmhzdnpGakkzR050amR0OWhHcVpOMjZoZ1dJRmIxM1NBRWtrQTJDTnhvRGh0QWlzZ2wxaHBKSWozTVFTdHRtMG43Z0FaQjdVZm5rNnVOcHVRcXJoQUpiZXZkc0UvV0wzbkdEM1BzbklvcmU5MUYiLCJtYWMiOiI4Y2Y4NzM2YjdjYTE1MDQyYmZiODU3ZWFhODI5YmY2ZDVkMzg2Yjg4NGE4ZDViMDhlOTBkZDVkMWIxNjExYjZlIiwidGFnIjoiIn0%3D",
+      "domain": "localhost",
+      "path": "/",
+      "expires": 1740044210.385127,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "fmp_client_session",
+      "value": "eyJpdiI6IjQySitRamZCL1UvNlVEUHhVREx2MHc9PSIsInZhbHVlIjoiWkl2M1owTFZPQnFkZjNhNGZ6THdHa2VzSDgwSHM5a09aRmQxakZoOWFNSmRpZWV2RjYvb09LNVZNSE5PYVJUN2tzMGgwTTZqNHl3TGl3M05hM2xPUTVFbnUreElGenc3UWxRMnlSYjN6V25KNVllS2tuaVNBckgvSVlqUWY0ZTUiLCJtYWMiOiI1ZWIwODNmMGVlNTAwYzAyZGRmMjg2YTcyOTA5NzIwOTVjYzVmOTRjODAyNzBlMDM5NzAyNTE3MmY1ODg3MjEzIiwidGFnIjoiIn0%3D",
+      "domain": "localhost",
+      "path": "/",
+      "expires": 1740044210.38519,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
