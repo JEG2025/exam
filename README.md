@@ -50,7 +50,7 @@
    ```
 2. Run tests for a specific file with:
    ```bash
-   npx playwright test tests/e2e/specs/filename.spec.ts
+   npx playwright test filename.spec.ts
    ```
 
 ## What's Being Tested?
